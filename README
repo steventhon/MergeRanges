@@ -1,0 +1,7 @@
+Steven Thon
+2017-07-30
+To compile and run:
+javac Zipcodes.java ZipcodesTest.java ZipCodesTestRunner.java
+java ZipCodesTestRunner
+
+This will run the tests in ZipcodesTest.java
